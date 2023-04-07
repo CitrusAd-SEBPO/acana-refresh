@@ -1283,6 +1283,7 @@ a {
   font-weight: 700;
   color: #fff;
   cursor: pointer;
+  text-transform: uppercase;
 }
 .citrusAcana__footerCTA button:hover {
   background: #fff;
@@ -1673,6 +1674,7 @@ button {
     width: auto;
     height: auto;
     color: #001952;
+    text-transform: capitalize;
     text-decoration: underline;
     padding-bottom: 30px;
   }
