@@ -1013,6 +1013,7 @@ a {
   .citrusAcana__pov03-textBox p {
     padding: 0;
     margin: 20px auto;
+    max-width: 300px;
   }
   .pov03CTA {
     display: flex;
