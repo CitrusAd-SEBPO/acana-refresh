@@ -1626,7 +1626,7 @@ button {
     right: 40px;
   }
   .citrusAcana__newPremium__productShot--row {
-    margin-top: 55px;
+    margin-top: 20px;
     display: flex;
     width: 340%;
   }
@@ -1640,9 +1640,14 @@ button {
   }
 
   /* ------------------------ */
-  .citrusAcana__perfectContainer {
+  .citrusAcana__perfectContainer,
+  .citrusAcana__goBeyondContainer,
+  .citrusAcana__newPremium__leftImage {
     padding-left: 20px;
     padding-right: 20px;
+  }
+  .citrusAcana__newPremium__productShotContainer {
+    padding-left: 20px;
   }
 
   .citrusAcana__perfect__row {
