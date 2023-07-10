@@ -789,12 +789,12 @@ a {
   cursor: pointer;
 }
 
-.citrusAcana__povCTA button:hover, .citrusAcana__btn_alternative:hover {
+/* .citrusAcana__povCTA button:hover, .citrusAcana__btn_alternative:hover {
   background: #fff;
   color: #001952;
   border: 1px solid #001952;
   transition: all 1s;
-}
+} */
 
 .citrusAcana__pov3_bdg_logo_desktop{
   display: block;
@@ -1363,12 +1363,12 @@ a {
   text-transform: uppercase;
 }
 
-.citrusAcana__footerCTA button:hover {
+/* .citrusAcana__footerCTA button:hover {
   background: #fff;
   color: #001952;
   border: 1px solid #001952;
   transition: all 1s;
-}
+} */
 
 #image-carousel .splide__arrows {
   display: none;
@@ -1772,10 +1772,10 @@ button {
     padding-bottom: 30px;
   }
 
-  .citrusAcana__footerCTA button:hover , .citrusAcana__btn_alternative:hover{
+  /* .citrusAcana__footerCTA button:hover , .citrusAcana__btn_alternative:hover{
     color: #001952;
     border: none;
-  }
+  } */
 }
 
 @media all and (max-width: 425px) {
