@@ -645,7 +645,6 @@ a {
   position: absolute;
   top: 25%;
   left: 42% !important;
-  /* height: 74px; */
   width: 15% !important;
 }
 
@@ -653,7 +652,6 @@ a {
   position: absolute;
   top: 35%;
   left: 42% !important;
-  /* height: 74px; */
   width: 15% !important;
 }
 
@@ -668,7 +666,6 @@ a {
   position: absolute;
   top: 10%;
   right: 27% !important;
-  /* height: 75px !important; */
   width: 6%!important;
 }
 
@@ -871,15 +868,6 @@ a {
     width: 12% !important;
   }
 }
-/* @media screen and (min-width: 769px) and (max-width: 1400px) {
-  .citrusAcana__bdg_third {
-    position: absolute;
-    top: 10%;
-    right: 26% !important;
-    height: 61px !important;
-    width: 91px !important;
-  }
-} */
 
 @media screen and (min-width: 768px) and (max-width: 921px) {
   .citrusAcana_carousel,
@@ -1212,25 +1200,9 @@ a {
 }
 
 .citrusAcana__newPremium--absoluteImg img {
-  /* width: 208px;
-  height: 100px; */
   object-fit: contain;
   position: absolute;
-  /* top: 30px;
-  left: 60px; */
 }
-
-/* #premium_pate_line_br_up {
-  top: 100px;
-} */
-
-/* #premium_pate_protein {
-  top: 145px;
-} */
-
-/* #premium_pate_line_br_down {
-  top: 195px;
-} */
 
 .citrusAcana__newPremium--absoluteImg p {
   width: 118px;
@@ -1251,15 +1223,6 @@ a {
   width: auto;
   height: 40px;
 }
-
-/* .citrusAcana_premium_pate_line_br {
-  width: 548px;
-  height: 3px;
-  color: #5b6238;
-  position: absolute;
-  top: 60px;
-  left: 60px;
-} */
 
 .citrusAcana__newPremium__productShot--row {
   display: grid;
@@ -1628,79 +1591,15 @@ button {
   }
 }
 
-@media screen and (min-width: 1025px) and (max-width: 1115px) {
-  /* .citrusAcana__newPremium--absoluteImg img {
-    width: 160px;
-    top: 10px;
-    left: 40px;
-  } */
-
-  /* #premium_pate_line_br_up {
-    top: 60px;
-  } */
-
-  /* #premium_pate_protein {
-    top: 95px;
-  } */
-
-  /* #premium_pate_line_br_down {
-    top: 135px;
-  } */
-
-  /* .citrusAcana__newPremium--absoluteImg p {
-    width: 90px;
-    left: 20px;
-    top: 204px;
-    font-size: 12px;
-  } */
-
-  /* #premium_pate_arrow {
-    left: 50px;
-    top: 235px;
-    height: 35px;
-  } */
-}
 
 @media screen and (min-width: 922px) and (max-width: 1024px) {
   .citrusAcana_ingredients-ribbon img {
     height: 210px;
   }
-
-  /* .citrusAcana__newPremium--absoluteImg img {
-    width: 160px;
-    top: 10px;
-    left: 40px;
-  } */
-
-  /* #premium_pate_line_br_up {
-    top: 60px;
-  } */
-
-  /* #premium_pate_protein {
-    top: 95px;
-  } */
-
-  /* #premium_pate_line_br_down {
-    top: 135px;
-  } */
-
-  /* .citrusAcana__newPremium--absoluteImg p {
-    width: 90px;
-    left: 20px;
-    top: 204px;
-    font-size: 12px;
-  } */
-
-  /* #premium_pate_arrow {
-    left: 50px;
-    top: 235px;
-    height: 35px;
-  } */
 }
 
 @media all and (min-width: 769px) and (max-width: 991px) {
   /* ---------------------- */
-
   .citrusAcana__goBeyond__Card--body {
     padding: 40px;
   }
@@ -1728,36 +1627,7 @@ button {
   .citrusAcana_ingredients-ribbon img {
     height: 195px;
 }
-  /* .citrusAcana__newPremium--absoluteImg img {
-    width: 135px;
-    top: 0px;
-    left: 35px;
-  } */
 
-  /* #premium_pate_line_br_up {
-    top: 45px;
-  } */
-
-  /* #premium_pate_protein {
-    top: 73px;
-  } */
-
-  /* #premium_pate_line_br_down {
-    top: 105px;
-  } */
-
-  /* .citrusAcana__newPremium--absoluteImg p {
-    width: 90px;
-    left: 10px;
-    top: 160px;
-    font-size: 12px;
-  } */
-
-  /* #premium_pate_arrow {
-    left: 37px;
-    top: 190px;
-    height: 30px;
-  } */
 }
 
 @media all and (max-width: 768px) {
@@ -1842,29 +1712,9 @@ button {
     padding-right: 0px;
   }
 
-  /* .citrusAcana__newPremium--absoluteImg img {
-    width: 25%;
-    left: 20%;
-    top: 15%;
-  } */
-
-  /* #premium_pate_line_br_up {
-    top: 31%;
-  } */
-
-  /* #premium_pate_protein {
-    top: 40%;
-  } */
-
-  /* #premium_pate_line_br_down {
-    top: 49%;
-  } */
   .citrusAcana__newPremium--absoluteImg p {
-    /* width: 125px; */
-    /* position: absolute; */
     left: 25.5%;
     top: 68%;
-    /* font-size: 18px; */
   }
 
   .citrusAcana__newPremium__productShot--row {
@@ -1947,51 +1797,10 @@ button {
     width: 286px;
     margin: auto;
   }
-  /* .citrusAcana__newPremium--absoluteImg img {
-    width: 160px;
-    left: 60px;
-    top: 10px;
-  } */
-  /* #premium_pate_line_br_up {
-    top: 60px;
-  } */
-  /* #premium_pate_protein {
-    top: 91px;
-  } */
-
-  /* #premium_pate_line_br_down {
-    top: 130px;
-  } */
   .citrusAcana__newPremium--absoluteImg p {
-    /* width: 125px; */
-    /* position: absolute; */
     left: 20.5%;
     top: 65%;
-    /* font-size: 18px; */
 }
 }
 
-@media screen and (max-width: 375px) {
-  /* .citrusAcana__newPremium--absoluteImg img {
-    width: 140px;
-    left: 50px;
-    top: 0px;
-  } */
-  /* #premium_pate_line_br_up {
-    top: 45px;
-  } */
-  /* #premium_pate_protein {
-    top: 75px;
-  } */
-  /* #premium_pate_line_br_down {
-    top: 110px;
-  } */
-  /* .citrusAcana__newPremium--absoluteImg p {
-    width: 123px;
-    position: absolute;
-    left: 60px;
-    top: 170px;
-    font-size: 18px;
-    font-weight: 700;
-  } */
-}
+
