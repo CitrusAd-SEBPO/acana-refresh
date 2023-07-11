@@ -666,7 +666,7 @@ a {
   position: absolute;
   top: 10%;
   right: 27% !important;
-  width: 6%!important;
+  width: 6% !important;
 }
 
 .citrusAcana_banner-copy {
@@ -796,10 +796,10 @@ a {
   transition: all 1s;
 } */
 
-.citrusAcana__pov3_bdg_logo_desktop{
+.citrusAcana__pov3_bdg_logo_desktop {
   display: block;
 }
-.citrusAcana__pov3_bdg_logo_mobile{
+.citrusAcana__pov3_bdg_logo_mobile {
   display: none;
 }
 
@@ -932,11 +932,11 @@ a {
     background-color: #f0eedb;
   }
   .citrusAcana__logo_common {
-    left: 12% !important;
+    left: 9.5% !important;
     height: 32% !important;
-    width: 23% !important;
+    width: 30% !important;
     top: 5%;
-  }
+}
   .citrusAcana__logo_second {
     display: none;
   }
@@ -946,9 +946,12 @@ a {
     left: 0;
     height: max-content;
     padding-bottom: 60px;
-    top: 20px;
+    top: 15px;
     justify-content: center;
     text-align: center;
+  }
+  #citrusAcana_2ndbanner-copy {
+    top: 15px;
   }
   .citrusAcana_banner-copy p {
     margin: auto;
@@ -976,22 +979,22 @@ a {
     margin-bottom: 5px;
   }
   .citrusAcana__logo_third {
-    top: 5%;
-    left: 20% !important;
-    width: 24% !important;
+    top: 0%;
+    left: 18% !important;
+    width: 30% !important;
   }
   .citrusAcana__bdg_third {
     top: 30%;
-    right: 40% !important;
+    right: 42% !important;
+    width: 10% !important;
   }
-  .citrusAcana__pov3_bdg_logo_desktop{
+  .citrusAcana__pov3_bdg_logo_desktop {
     display: none;
   }
-  .citrusAcana__pov3_bdg_logo_mobile{
+  .citrusAcana__pov3_bdg_logo_mobile {
     display: block;
   }
 }
-
 
 @media screen and (max-width: 425px) {
   .citrusAcana_banner-copy h1 {
@@ -1016,10 +1019,9 @@ a {
     top: 45px;
   }
   .citrusAcana__bdg_third {
-    top: 22%;
-    right: 35% !important;
-    height: 71px !important;
-    width: 71px !important;
+    top: 27%;
+    right: 39% !important;
+    width: 15% !important;
   }
 }
 
@@ -1592,7 +1594,6 @@ button {
   }
 }
 
-
 @media screen and (min-width: 922px) and (max-width: 1024px) {
   .citrusAcana_ingredients-ribbon img {
     height: 210px;
@@ -1627,8 +1628,7 @@ button {
 
   .citrusAcana_ingredients-ribbon img {
     height: 195px;
-}
-
+  }
 }
 
 @media all and (max-width: 768px) {
@@ -1691,7 +1691,7 @@ button {
   }
 
   .citrusAcana__sectionSubhead {
-    width: 80%;
+    width: 90%;
     margin: auto;
     text-align: center;
     border-color: #fff;
@@ -1778,6 +1778,20 @@ button {
   } */
 }
 
+@media screen and (min-width: 426px) and (max-width: 600px) {
+  /* ------------- */
+  .citrusAcana__bdg_third {
+    width: 12% !important;
+  }
+  /* ------------- */
+  .citrusAcana_ingredients-ribbon img {
+    height: 150px;
+  }
+  .citrusAcana__goBeyond__Card--body p {
+    width: 350px;
+  }
+}
+
 @media all and (max-width: 425px) {
   .citrus_item_section__tab_content_item {
     margin: 0px 10px;
@@ -1801,7 +1815,5 @@ button {
   .citrusAcana__newPremium--absoluteImg p {
     left: 20.5%;
     top: 65%;
+  }
 }
-}
-
-
