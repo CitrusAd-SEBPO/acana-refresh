@@ -363,7 +363,7 @@
 
 .citrus_meet_tab_item {
   text-transform: uppercase;
-  padding: 12px 20px;
+  padding: 10px 20px;
   margin: 0px 10px;
   font-size: 14px;
   text-decoration: none;
@@ -375,6 +375,7 @@
   font-weight: 700;
   line-height: 1.3;
   text-align: center;
+  border-bottom: 8px solid white;
 }
 
 button {
@@ -384,7 +385,8 @@ button {
 .citrus_meet_tab_item.citrus_meet_tab_item_active {
   color: #001952;
   border-bottom: 8px solid #001952;
-  margin-top: 12px;
+  margin-top: 0;
+  border-radius: 0;
 }
 
 .citrus-meet-orijen-main21 {
@@ -397,6 +399,7 @@ button {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
+  margin-top: 21px;
   margin-bottom: 30px;
   border-bottom: 1px solid #021b4e;
 }
@@ -1096,6 +1099,7 @@ a {
   font-family: "PetcoCircularTT-Regular", arial !important;
   font-size: 16px;
   margin-top: 10px;
+  color: #000;
 }
 
 /* Premium meals for a better future start */
@@ -1270,7 +1274,7 @@ a {
   -webkit-line-clamp: 3;
   line-clamp: 3;
   -webkit-box-orient: vertical;
-  max-height: 4em;
+  /* max-height: 4em; */
   margin-bottom: 24px;
 }
 
@@ -1420,51 +1424,6 @@ product tab styling
   display: none;
 }
 
-.citrus_meet_tab_item span {
-  display: block;
-}
-
-.citrus_meet_tab_item {
-  text-transform: uppercase;
-  padding: 12px 20px;
-  margin: 0px 10px;
-  font-size: 14px;
-  text-decoration: none;
-  background-color: #ffffff;
-  border: none;
-  cursor: pointer;
-  color: #6e6b6b;
-  font-family: "PetcoCircularTT-Regular", arial !important;
-  font-weight: 700;
-  line-height: 1.3;
-  text-align: center;
-}
-
-button {
-  font-family: "PetcoCircularTT-Regular", arial !important;
-}
-
-.citrus_meet_tab_item.citrus_meet_tab_item_active {
-  color: #001952;
-  border-bottom: 8px solid #001952;
-  margin-top: 12px;
-}
-
-.citrus-meet-orijen-main21 {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: space-around;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  margin-top: 21px;
-  margin-bottom: 30px;
-  border-bottom: 1px solid #021b4e;
-}
-
 .cirtus_meet_tabs_22 {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1514,7 +1473,7 @@ button {
   -webkit-line-clamp: 3;
   line-clamp: 3;
   -webkit-box-orient: vertical;
-  max-height: 4em;
+  /* max-height: 4em; */
   margin-bottom: 24px;
   width:190px;
 }
